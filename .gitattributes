@@ -1,0 +1,2 @@
+# Keep Windows line endings in .bat files exactly as committed, so GitHub raw/ZIP downloads run correctly.
+*.bat -text
