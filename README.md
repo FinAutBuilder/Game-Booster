@@ -6,7 +6,7 @@ Game Booster frees up your PC while you play. It switches to max power, turns on
 
 ## How to use
 
-1. Download **`GameBooster.bat`**: click it above, then click the download button (or use **Code > Download ZIP**).
+1. **[Download GameBooster.bat](https://github.com/FinAutBuilder/Game-Booster/releases/latest/download/GameBooster.bat)** (always the latest version). Release notes are on the [Releases page](https://github.com/FinAutBuilder/Game-Booster/releases/latest).
 2. Double-click `GameBooster.bat`.
    - If Windows shows **"Windows protected your PC"**, click **More info**, then **Run anyway**. This appears for any downloaded script that isn't from a big company.
    - Click **Yes** on the admin prompt. The booster needs admin rights to change power and service settings.
@@ -56,3 +56,7 @@ GameBooster.bat
 ```
 
 Tests: `powershell -NoProfile -ExecutionPolicy Bypass -File tests\GameBooster.Tests.ps1`
+
+## License
+
+[MIT](LICENSE): free to use, change and share. Keep the license notice with it.
